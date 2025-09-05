@@ -1,0 +1,50 @@
+{
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Solarized Light",
+  "workbench.editor.labelFormat": "short",
+  "editor.rulers": [80, 100, 120],
+  "editor.guides.bracketPairs": "active",
+  "editor.fontSize": 13,
+  "editor.renderWhitespace": "boundary",
+  "peacock.favoriteColors": [
+    {
+      "name": "iTerm Coral",
+      "value": "#EB7368"
+    },
+    {
+      "name": "iTerm Violet",
+      "value": "#BA91D5"
+    },
+    {
+      "name": "iTerm Green",
+      "value": "#BDD561"
+    },
+    {
+      "name": "iTerm Yellow",
+      "value": "#EDD63F"
+    },
+    {
+      "name": "iTerm Grey",
+      "value": "#666565"
+    },
+    {
+      "name": "iTerm Orange",
+      "value": "#F39C43"
+    },
+    {
+      "name": "iTerm Blue",
+      "value": "#4F8FF7"
+    }
+  ],
+  "editor.minimap.enabled": false,
+  "totalTypeScript.hideAllTips": true,
+  "githubPullRequests.pullBranch": "never",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.ignoreMissingGitWarning": true,
+  "workbench.editor.empty.hint": "hidden",
+  "git.mergeEditor": false
+}

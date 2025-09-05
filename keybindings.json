@@ -1,0 +1,59 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "cmd+s",
+    "command": "saveAll"
+  },
+  {
+    "key": "alt+cmd+s",
+    "command": "-saveAll"
+  },
+  {
+    "key": "alt+cmd+s",
+    "command": "workbench.action.files.save"
+  },
+  {
+    "key": "cmd+s",
+    "command": "-workbench.action.files.save"
+  },
+  {
+    "key": "ctrl+;",
+    "command": "findJump.activate"
+  },
+  {
+    "key": "ctrl+'",
+    "command": "findJump.activateWithSelection"
+  },
+  {
+    "key": "ctrl+h",
+    "command": "workbench.action.navigateLeft"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "workbench.action.navigateRight"
+  },
+  {
+    "key": "ctrl+k",
+    "command": "workbench.action.navigateUp"
+  },
+  {
+    "key": "ctrl+j",
+    "command": "workbench.action.navigateDown"
+  },
+  {
+    "key": "shift shift",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.addSelectionToPreviousFindMatch"
+  },
+  {
+    "key": "ctrl+alt+cmd+up",
+    "command": "editor.emmet.action.balanceOut"
+  },
+  {
+    "key": "ctrl+alt+cmd+down",
+    "command": "editor.emmet.action.balanceIn"
+  }
+]
